@@ -1,0 +1,8 @@
+colorama==0.4.3
+Django==2.2
+django-qr-code==1.2.0
+Pillow==7.1.2
+pytz==2020.1
+qrcode==6.1
+six==1.15.0
+sqlparse==0.3.1
